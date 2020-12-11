@@ -10,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^5.0.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazenic/portfolio_website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bazenic/portfolio_website/issues"
+  },
+  "homepage": "https://github.com/bazenic/portfolio_website#readme"
 }
